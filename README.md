@@ -1,51 +1,52 @@
-####                                  Éî¶ÈÑ§Ï°¼¼Êõ²©¿ÍºÍ¼¼ÊõÎÄÕÂÊÕ¼¯
+####                                  æ·±åº¦å­¦ä¹ æŠ€æœ¯åšå®¢å’ŒæŠ€æœ¯æ–‡ç« æ”¶é›†
 
-#### ´ÊÏòÁ¿
-1. ´ÓWord Embeddingµ½BertÄ£ĞÍ¡ª×ÔÈ»ÓïÑÔ´¦ÀíÖĞµÄÔ¤ÑµÁ·¼¼Êõ·¢Õ¹Ê·
+#### è¯å‘é‡
+1. ä»Word Embeddingåˆ°Bertæ¨¡å‹â€”è‡ªç„¶è¯­è¨€å¤„ç†ä¸­çš„é¢„è®­ç»ƒæŠ€æœ¯å‘å±•å²
    https://zhuanlan.zhihu.com/p/49271699
-2. transformerÔ­Àí½²½âhttps://jalammar.github.io/illustrated-transformer/
-3. Ç°ÑØ×ÛÊö£ºÏ¸Êı2018Äê×îºÃµÄ´ÊÇ¶ÈëºÍ¾äÇ¶Èë¼¼Êõhttps://zhuanlan.zhihu.com/p/37869959
+2. transformeråŸç†è®²è§£https://jalammar.github.io/illustrated-transformer/
+3. å‰æ²¿ç»¼è¿°ï¼šç»†æ•°2018å¹´æœ€å¥½çš„è¯åµŒå…¥å’Œå¥åµŒå…¥æŠ€æœ¯ https://zhuanlan.zhihu.com/p/37869959
+4. æ”¾å¼ƒå¹»æƒ³ï¼Œå…¨é¢æ‹¥æŠ±Transformerï¼šè‡ªç„¶è¯­è¨€å¤„ç†ä¸‰å¤§ç‰¹å¾æŠ½å–å™¨ï¼ˆCNN/RNN/TFï¼‰æ¯”è¾ƒ https://mp.weixin.qq.com/s/T3XjEir63GlasbXDPK2YUQ
 #### Tensorboard
-1. TensorboardÏê½âhttps://zhuanlan.zhihu.com/p/36946874 https://zhuanlan.zhihu.com/p/37022051
-#### tensorflowËã·¨²¿Êğ
-1. Tensorflow Serving²¿ÊğÁ÷³Ìhttps://zhuanlan.zhihu.com/p/42905085
-#### ÖªÊ¶Í¼Æ×
-1. Ò»ÎÄ½ÒÃØ£¡×Ôµ×ÏòÉÏ¹¹½¨ÖªÊ¶Í¼Æ×È«¹ıhttps://mp.weixin.qq.com/s/lBeV6XWzk5bqNGiIMok-zw
-2. ÏîÄ¿ÊµÕ½£ºÈçºÎ¹¹½¨ÖªÊ¶Í¼Æ×https://zhuanlan.zhihu.com/p/29332977
-3. ÖªÊ¶Í¼Æ×Êı¾İ¹¹½¨µÄ¡°Ó²¹ÇÍ·¡±£¬°¢Àï¹¤³ÌÊ¦ÈçºÎÄÃÏÂhttps://zhuanlan.zhihu.com/p/43899340
-4. ×Ôµ×ÏòÉÏ¡ª¡ªÖªÊ¶Í¼Æ×¹¹½¨¼¼Êõ³õÌ½https://m.aliyun.com/yunqi/articles/603347?utm_content=m_1000004547&from=timeline
-5. ¸´µ©´óÑ§Ğ¤Ñö»ª£ºÁìÓòÖªÊ¶Í¼Æ×ÂäµØÊµ¼ùÖĞµÄÎÊÌâÓë¶Ô²ßhttps://mp.weixin.qq.com/s/XTJ0t39SbeIDXtseCUcDBA
-#### lstm rnn±äÖÖ
-1. ÑµÁ·¿É½âÊÍ¡¢¿ÉÑ¹Ëõ¡¢¸ß×¼È·ÂÊµÄLSTM https://mp.weixin.qq.com/s/8BPZ_M8EGk3KxkSleYWSNw
-#### NERÃüÃûÊµÌå
-1. ÀûÓÃLattice LSTMµÄ×îÓÅÖĞÎÄÃüÃûÊµÌåÊ¶±ğ·½·¨https://mp.weixin.qq.com/s/rA6oTLlFWmIvGUq_XPLOKQ
-#### ÍÆ¼öÏµÍ³
-1. ÍÆ¼öÏµÍ³¸÷ÖÖ¼¼Êõ²©¿Íhttps://www.jianshu.com/u/c5df9e229a67
-2. Ğ¡Ã«Â¿http://xudongyang.coding.me/
-3. ÍÆ¼öÏµÍ³ÓĞÄÄĞ©¿Ó£¿https://www.zhihu.com/question/28247353
-#### ¾ºÈü¼¼Êõ
-1. 2018 ATEC NLP±ÈÈü 15th ×Ü½áhttps://blog.csdn.net/cuihuijun1hao/article/details/82318792
-2. AI Challenger 2018 ¹Ú¾ü PPT ·ÖÏí---Ï¸Á£¶ÈÇé¸Ğ·ÖÎöÈüµÀhttps://mp.weixin.qq.com/s/W0PhbE8149nD3Venmy33tw
-3. AI Challenger 2018 µÚ4ÃûPPT·ÖÏí---Ï¸Á£¶ÈÇé¸Ğ·ÖÎöÈüµÀhttps://mp.weixin.qq.com/s/J6jPxIToPJsA7aSb7wzIuQ
-4. AI Challenger 2018 »úÆ÷·­Òë¹Ú¾ü²ÎÈü×Ü½áhttps://mp.weixin.qq.com/s/zCtl_q8S7dI75P_flQBjOA
-5. µÚÈı½ìBDC¡ª¡ª¿ìÊÖ»îÔ¾ÓÃ»§Ô¤²â£¨Rank1´ğ±çppt´úÂë£©https://zhuanlan.zhihu.com/p/42622063
-#### ¼¼Êõ²©¿Í
-1. Ğì°¢ºâhttp://www.shuang0420.com/£¨ÓĞÒ»Ğ©¹ØÓÚÖªÊ¶³éÈ¡£¬BiDAF£¬QANet£©
-2. Áõ½¨Æ½https://www.cnblogs.com/pinard/£¨»úÆ÷Ñ§Ï°£¬Éî¶ÈÑ§Ï°£¬×ÔÈ»ÓïÑÔ´¦Àí£¬Ç¿»¯Ñ§Ï°£©
-3. hanxiao https://hanxiao.github.io/£¨bert-as-serviceÕâ¸öÏîÄ¿µÄËµÃ÷ÎÄµµ£©
-4. Eureka»úÆ÷Ñ§Ï°¶ÁÊé±Ê¼Çhttps://zhuanlan.zhihu.com/xiadayj£¨»úÆ÷Ñ§Ï°Ò»Ğ©ÀíÂÛ¶«Î÷£¬ÖµµÃ¿´¿´£©
-#### Í³¼Æ·ÖÎö
-1. Lending Club¡ª¡ª¹¹½¨´û¿îÎ¥Ô¼Ô¤²âÄ£ĞÍhttps://zhuanlan.zhihu.com/p/29994599
-#### ĞÂ´Ê·¢ÏÖ
-1. ·´×÷±×»ùÓÚ×óÓÒĞÅÏ¢ìØºÍ»¥ĞÅÏ¢µÄĞÂ´ÊÍÚ¾ò https://zhuanlan.zhihu.com/p/25499358
+1. Tensorboardè¯¦è§£https://zhuanlan.zhihu.com/p/36946874 https://zhuanlan.zhihu.com/p/37022051
+#### tensorflowç®—æ³•éƒ¨ç½²
+1. Tensorflow Servingéƒ¨ç½²æµç¨‹https://zhuanlan.zhihu.com/p/42905085
+#### çŸ¥è¯†å›¾è°±
+1. ä¸€æ–‡æ­ç§˜ï¼è‡ªåº•å‘ä¸Šæ„å»ºçŸ¥è¯†å›¾è°±å…¨è¿‡https://mp.weixin.qq.com/s/lBeV6XWzk5bqNGiIMok-zw
+2. é¡¹ç›®å®æˆ˜ï¼šå¦‚ä½•æ„å»ºçŸ¥è¯†å›¾è°±https://zhuanlan.zhihu.com/p/29332977
+3. çŸ¥è¯†å›¾è°±æ•°æ®æ„å»ºçš„â€œç¡¬éª¨å¤´â€ï¼Œé˜¿é‡Œå·¥ç¨‹å¸ˆå¦‚ä½•æ‹¿ä¸‹https://zhuanlan.zhihu.com/p/43899340
+4. è‡ªåº•å‘ä¸Šâ€”â€”çŸ¥è¯†å›¾è°±æ„å»ºæŠ€æœ¯åˆæ¢https://m.aliyun.com/yunqi/articles/603347?utm_content=m_1000004547&from=timeline
+5. å¤æ—¦å¤§å­¦è‚–ä»°åï¼šé¢†åŸŸçŸ¥è¯†å›¾è°±è½åœ°å®è·µä¸­çš„é—®é¢˜ä¸å¯¹ç­–https://mp.weixin.qq.com/s/XTJ0t39SbeIDXtseCUcDBA
+#### lstm rnnå˜ç§
+1. è®­ç»ƒå¯è§£é‡Šã€å¯å‹ç¼©ã€é«˜å‡†ç¡®ç‡çš„LSTM https://mp.weixin.qq.com/s/8BPZ_M8EGk3KxkSleYWSNw
+#### NERå‘½åå®ä½“
+1. åˆ©ç”¨Lattice LSTMçš„æœ€ä¼˜ä¸­æ–‡å‘½åå®ä½“è¯†åˆ«æ–¹æ³•https://mp.weixin.qq.com/s/rA6oTLlFWmIvGUq_XPLOKQ
+#### æ¨èç³»ç»Ÿ
+1. æ¨èç³»ç»Ÿå„ç§æŠ€æœ¯åšå®¢https://www.jianshu.com/u/c5df9e229a67
+2. å°æ¯›é©´http://xudongyang.coding.me/
+3. æ¨èç³»ç»Ÿæœ‰å“ªäº›å‘ï¼Ÿhttps://www.zhihu.com/question/28247353
+#### ç«èµ›æŠ€æœ¯
+1. 2018 ATEC NLPæ¯”èµ› 15th æ€»ç»“https://blog.csdn.net/cuihuijun1hao/article/details/82318792
+2. AI Challenger 2018 å† å†› PPT åˆ†äº«---ç»†ç²’åº¦æƒ…æ„Ÿåˆ†æèµ›é“https://mp.weixin.qq.com/s/W0PhbE8149nD3Venmy33tw
+3. AI Challenger 2018 ç¬¬4åPPTåˆ†äº«---ç»†ç²’åº¦æƒ…æ„Ÿåˆ†æèµ›é“https://mp.weixin.qq.com/s/J6jPxIToPJsA7aSb7wzIuQ
+4. AI Challenger 2018 æœºå™¨ç¿»è¯‘å† å†›å‚èµ›æ€»ç»“https://mp.weixin.qq.com/s/zCtl_q8S7dI75P_flQBjOA
+5. ç¬¬ä¸‰å±ŠBDCâ€”â€”å¿«æ‰‹æ´»è·ƒç”¨æˆ·é¢„æµ‹ï¼ˆRank1ç­”è¾©pptä»£ç ï¼‰https://zhuanlan.zhihu.com/p/42622063
+#### æŠ€æœ¯åšå®¢
+1. å¾é˜¿è¡¡http://www.shuang0420.com/ï¼ˆæœ‰ä¸€äº›å…³äºçŸ¥è¯†æŠ½å–ï¼ŒBiDAFï¼ŒQANetï¼‰
+2. åˆ˜å»ºå¹³https://www.cnblogs.com/pinard/ï¼ˆæœºå™¨å­¦ä¹ ï¼Œæ·±åº¦å­¦ä¹ ï¼Œè‡ªç„¶è¯­è¨€å¤„ç†ï¼Œå¼ºåŒ–å­¦ä¹ ï¼‰
+3. hanxiao https://hanxiao.github.io/ï¼ˆbert-as-serviceè¿™ä¸ªé¡¹ç›®çš„è¯´æ˜æ–‡æ¡£ï¼‰
+4. Eurekaæœºå™¨å­¦ä¹ è¯»ä¹¦ç¬”è®°https://zhuanlan.zhihu.com/xiadayjï¼ˆæœºå™¨å­¦ä¹ ä¸€äº›ç†è®ºä¸œè¥¿ï¼Œå€¼å¾—çœ‹çœ‹ï¼‰
+#### ç»Ÿè®¡åˆ†æ
+1. Lending Clubâ€”â€”æ„å»ºè´·æ¬¾è¿çº¦é¢„æµ‹æ¨¡å‹https://zhuanlan.zhihu.com/p/29994599
+#### æ–°è¯å‘ç°
+1. åä½œå¼ŠåŸºäºå·¦å³ä¿¡æ¯ç†µå’Œäº’ä¿¡æ¯çš„æ–°è¯æŒ–æ˜ https://zhuanlan.zhihu.com/p/25499358
 #### pyzmq
-1. zmqËµÃ÷ÎÄµµ http://zguide.zeromq.org/py:all
-2. ZeroMQ¼°ÆäÄ£Ê½https://zhuanlan.zhihu.com/p/22947038
-#### ¿Õ¶´¾í»ı
-1. ÈçºÎÀí½â¿Õ¶´¾í»ı£¨dilated convolution£©£¿https://www.zhihu.com/question/54149221/answer/192025860 https://www.zhihu.com/question/54149221/answer/323880412
-#### ÓïÒåÆ¥Åä
+1. zmqè¯´æ˜æ–‡æ¡£ http://zguide.zeromq.org/py:all
+2. ZeroMQåŠå…¶æ¨¡å¼https://zhuanlan.zhihu.com/p/22947038
+#### ç©ºæ´å·ç§¯
+1. å¦‚ä½•ç†è§£ç©ºæ´å·ç§¯ï¼ˆdilated convolutionï¼‰ï¼Ÿhttps://www.zhihu.com/question/54149221/answer/192025860 https://www.zhihu.com/question/54149221/answer/323880412
+#### è¯­ä¹‰åŒ¹é…
 1. Relevance Matching https://zhuanlan.zhihu.com/p/39946041
-#### Éî¶ÈÑ§Ï°µ÷ÓÅ
-1. ¹ØÓÚÉî¶ÈÑ§Ï°µÄ»úÀí£¬ÓÅ»¯ºÍÍøÂç½á¹¹µÄÒ»Ğ©¸öÈË¹Ûµãhttps://zhuanlan.zhihu.com/p/22067439
-2. Éî¶ÈÑ§Ï°ÖĞµÄÓÅ»¯Ëã·¨https://zhuanlan.zhihu.com/p/43506482
-3. Éî¶ÈÑ§Ï°×îÈ«ÓÅ»¯·½·¨×Ü½á±È½Ï£¨SGD£¬Adagrad£¬Adadelta£¬Adam£¬Adamax£¬Nadam£©https://zhuanlan.zhihu.com/p/22252270
+#### æ·±åº¦å­¦ä¹ è°ƒä¼˜
+1. å…³äºæ·±åº¦å­¦ä¹ çš„æœºç†ï¼Œä¼˜åŒ–å’Œç½‘ç»œç»“æ„çš„ä¸€äº›ä¸ªäººè§‚ç‚¹https://zhuanlan.zhihu.com/p/22067439
+2. æ·±åº¦å­¦ä¹ ä¸­çš„ä¼˜åŒ–ç®—æ³•https://zhuanlan.zhihu.com/p/43506482
+3. æ·±åº¦å­¦ä¹ æœ€å…¨ä¼˜åŒ–æ–¹æ³•æ€»ç»“æ¯”è¾ƒï¼ˆSGDï¼ŒAdagradï¼ŒAdadeltaï¼ŒAdamï¼ŒAdamaxï¼ŒNadamï¼‰https://zhuanlan.zhihu.com/p/22252270
