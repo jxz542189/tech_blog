@@ -32,7 +32,7 @@
 #### 技术博客
 1. 徐阿衡http://www.shuang0420.com/（有一些关于知识抽取，BiDAF，QANet）
 2. 刘建平https://www.cnblogs.com/pinard/（机器学习，深度学习，自然语言处理，强化学习）
-3. hanxiaohttps://hanxiao.github.io/（bert-as-service这个项目的说明文档）
+3. hanxiao https://hanxiao.github.io/（bert-as-service这个项目的说明文档）
 4. Eureka机器学习读书笔记https://zhuanlan.zhihu.com/xiadayj（机器学习一些理论东西，值得看看）
 #### 统计分析
 1. Lending Club——构建贷款违约预测模型https://zhuanlan.zhihu.com/p/29994599
