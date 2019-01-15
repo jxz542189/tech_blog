@@ -16,7 +16,7 @@
 4. 自底向上——知识图谱构建技术初探https://m.aliyun.com/yunqi/articles/603347?utm_content=m_1000004547&from=timeline
 5. 复旦大学肖仰华：领域知识图谱落地实践中的问题与对策https://mp.weixin.qq.com/s/XTJ0t39SbeIDXtseCUcDBA
 #### lstm rnn变种
-1. 训练可解释、可压缩、高准确率的LSTMhttps://mp.weixin.qq.com/s/8BPZ_M8EGk3KxkSleYWSNw
+1. 训练可解释、可压缩、高准确率的LSTM https://mp.weixin.qq.com/s/8BPZ_M8EGk3KxkSleYWSNw
 #### NER命名实体
 1. 利用Lattice LSTM的最优中文命名实体识别方法https://mp.weixin.qq.com/s/rA6oTLlFWmIvGUq_XPLOKQ
 #### 推荐系统
