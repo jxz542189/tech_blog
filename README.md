@@ -6,6 +6,7 @@
 2. transformer原理讲解https://jalammar.github.io/illustrated-transformer/
 3. 前沿综述：细数2018年最好的词嵌入和句嵌入技术 https://zhuanlan.zhihu.com/p/37869959
 4. 放弃幻想，全面拥抱Transformer：自然语言处理三大特征抽取器（CNN/RNN/TF）比较 https://mp.weixin.qq.com/s/T3XjEir63GlasbXDPK2YUQ
+5. The Annotated Transformer http://nlp.seas.harvard.edu/2018/04/03/attention.html
 #### Tensorboard
 1. Tensorboard详解https://zhuanlan.zhihu.com/p/36946874 https://zhuanlan.zhihu.com/p/37022051
 #### tensorflow算法部署
