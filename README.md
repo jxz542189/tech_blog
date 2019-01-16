@@ -7,6 +7,7 @@
 3. 前沿综述：细数2018年最好的词嵌入和句嵌入技术 https://zhuanlan.zhihu.com/p/37869959
 4. 放弃幻想，全面拥抱Transformer：自然语言处理三大特征抽取器（CNN/RNN/TF）比较 https://mp.weixin.qq.com/s/T3XjEir63GlasbXDPK2YUQ
 5. The Annotated Transformer http://nlp.seas.harvard.edu/2018/04/03/attention.html
+6. BERT大火却不懂Transformer？读这一篇就够了 https://zhuanlan.zhihu.com/p/54356280
 #### Tensorboard
 1. Tensorboard详解https://zhuanlan.zhihu.com/p/36946874 https://zhuanlan.zhihu.com/p/37022051
 #### tensorflow算法部署
@@ -36,6 +37,7 @@
 2. 刘建平https://www.cnblogs.com/pinard/（机器学习，深度学习，自然语言处理，强化学习）
 3. hanxiao https://hanxiao.github.io/（bert-as-service这个项目的说明文档）
 4. Eureka机器学习读书笔记https://zhuanlan.zhihu.com/xiadayj（机器学习一些理论东西，值得看看）
+5. 张俊林 https://www.zhihu.com/people/zhang-jun-lin-76/activities
 #### 统计分析
 1. Lending Club——构建贷款违约预测模型https://zhuanlan.zhihu.com/p/29994599
 #### 新词发现
@@ -51,3 +53,5 @@
 1. 关于深度学习的机理，优化和网络结构的一些个人观点https://zhuanlan.zhihu.com/p/22067439
 2. 深度学习中的优化算法https://zhuanlan.zhihu.com/p/43506482
 3. 深度学习最全优化方法总结比较（SGD，Adagrad，Adadelta，Adam，Adamax，Nadam）https://zhuanlan.zhihu.com/p/22252270
+#### 广告点击率
+1. 重磅！阿里妈妈首次公开自研CTR预估核心算法MLR https://mp.weixin.qq.com/s/MtnHYmPVoDAid9SNHnlzUw
