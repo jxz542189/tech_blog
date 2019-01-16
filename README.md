@@ -55,3 +55,4 @@
 3. 深度学习最全优化方法总结比较（SGD，Adagrad，Adadelta，Adam，Adamax，Nadam）https://zhuanlan.zhihu.com/p/22252270
 #### 广告点击率
 1. 重磅！阿里妈妈首次公开自研CTR预估核心算法MLR https://mp.weixin.qq.com/s/MtnHYmPVoDAid9SNHnlzUw
+2. 镶嵌在互联网技术上的明珠：漫谈深度学习时代点击率预估技术进展 https://zhuanlan.zhihu.com/p/54822778
