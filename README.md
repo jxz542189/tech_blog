@@ -45,6 +45,7 @@
 5. 第三届BDC——快手活跃用户预测（Rank1答辩ppt代码）https://zhuanlan.zhihu.com/p/42622063
 6. AI Challenger 2018 文本挖掘类竞赛相关解决方案及代码汇总 http://www.52nlp.cn/ai-challenger-2018-%E6%96%87%E6%9C%AC%E6%8C%96%E6%8E%98%E7%B1%BB%E7%AB%9E%E8%B5%9B%E7%9B%B8%E5%85%B3%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88%E5%8F%8A%E4%BB%A3%E7%A0%81%E6%B1%87%E6%80%BB
 7. AI Challenger2018情感分析赛道亚军PPT分享 https://mp.weixin.qq.com/s/SycD5rGNeK5NwYwfmgCKoA
+8. 汽车行业用户观点主题及情感识别 https://github.com/yilirin/BDCI_Car_2018
 #### 技术博客
 1. 徐阿衡http://www.shuang0420.com/（有一些关于知识抽取，BiDAF，QANet）
 2. 刘建平https://www.cnblogs.com/pinard/（机器学习，深度学习，自然语言处理，强化学习）
@@ -62,3 +63,7 @@
 2. ZeroMQ及其模式https://zhuanlan.zhihu.com/p/22947038
 #### Tensorboard
 1. Tensorboard详解https://zhuanlan.zhihu.com/p/36946874 https://zhuanlan.zhihu.com/p/37022051
+#### docker
+1. docker_cmpose_demo https://github.com/vegasbrianc/docker-compose-demo
+2. docker_practice https://github.com/yeasy/docker_practice
+
