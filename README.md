@@ -17,6 +17,7 @@
 4. 推荐系统中的注意力机制——阿里深度兴趣网络（DIN） https://zhuanlan.zhihu.com/p/51623339
 5. 详解阿里之Deep Interest Evolution Network(AAAI 2019) https://zhuanlan.zhihu.com/p/50758485
 6. CVR预估的新思路：完整空间多任务模型 https://zhuanlan.zhihu.com/p/37562283
+7. 解构阿里深度兴趣网络（DIN）：如何将注意力机制引入推荐系统？ https://mp.weixin.qq.com/s/-EDxUwAKdXnmUKeLJTiAUw
 #### 知识图谱
 1. 一文揭秘！自底向上构建知识图谱全过https://mp.weixin.qq.com/s/lBeV6XWzk5bqNGiIMok-zw
 2. 项目实战：如何构建知识图谱https://zhuanlan.zhihu.com/p/29332977
@@ -33,6 +34,8 @@
 1. 关于深度学习的机理，优化和网络结构的一些个人观点https://zhuanlan.zhihu.com/p/22067439
 2. 深度学习中的优化算法https://zhuanlan.zhihu.com/p/43506482
 3. 深度学习最全优化方法总结比较（SGD，Adagrad，Adadelta，Adam，Adamax，Nadam）https://zhuanlan.zhihu.com/p/22252270
+#### 迁移学习
+1. 《ULMFiT》 阅读笔记 https://zhuanlan.zhihu.com/p/47344283
 #### 推荐系统
 1. 推荐系统各种技术博客https://www.jianshu.com/u/c5df9e229a67
 2. 小毛驴http://xudongyang.coding.me/
