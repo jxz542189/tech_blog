@@ -18,6 +18,7 @@
 5. 详解阿里之Deep Interest Evolution Network(AAAI 2019) https://zhuanlan.zhihu.com/p/50758485
 6. CVR预估的新思路：完整空间多任务模型 https://zhuanlan.zhihu.com/p/37562283
 7. 解构阿里深度兴趣网络（DIN）：如何将注意力机制引入推荐系统？ https://mp.weixin.qq.com/s/-EDxUwAKdXnmUKeLJTiAUw
+8. CTR论文 https://github.com/wzhe06/Ad-papers
 #### 知识图谱
 1. 一文揭秘！自底向上构建知识图谱全过https://mp.weixin.qq.com/s/lBeV6XWzk5bqNGiIMok-zw
 2. 项目实战：如何构建知识图谱https://zhuanlan.zhihu.com/p/29332977
