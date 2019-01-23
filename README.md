@@ -19,6 +19,7 @@
 6. CVR预估的新思路：完整空间多任务模型 https://zhuanlan.zhihu.com/p/37562283
 7. 解构阿里深度兴趣网络（DIN）：如何将注意力机制引入推荐系统？ https://mp.weixin.qq.com/s/-EDxUwAKdXnmUKeLJTiAUw
 8. CTR论文 https://github.com/wzhe06/Ad-papers
+9. 详解阿里之Deep Interest Evolution Network(AAAI 2019) https://zhuanlan.zhihu.com/p/50758485
 #### 知识图谱
 1. 一文揭秘！自底向上构建知识图谱全过https://mp.weixin.qq.com/s/lBeV6XWzk5bqNGiIMok-zw
 2. 项目实战：如何构建知识图谱https://zhuanlan.zhihu.com/p/29332977
@@ -27,7 +28,7 @@
 5. 复旦大学肖仰华：领域知识图谱落地实践中的问题与对策https://mp.weixin.qq.com/s/XTJ0t39SbeIDXtseCUcDBA
 #### CNN
 1. 如何理解空洞卷积（dilated convolution）？https://www.zhihu.com/question/54149221/answer/192025860 https://www.zhihu.com/question/54149221/answer/323880412
-#### LSTM
+##急## LSTM
 1. 训练可解释、可压缩、高准确率的LSTM https://mp.weixin.qq.com/s/8BPZ_M8EGk3KxkSleYWSNw
 #### 语义匹配
 1. Relevance Matching https://zhuanlan.zhihu.com/p/39946041
@@ -35,6 +36,7 @@
 1. 关于深度学习的机理，优化和网络结构的一些个人观点https://zhuanlan.zhihu.com/p/22067439
 2. 深度学习中的优化算法https://zhuanlan.zhihu.com/p/43506482
 3. 深度学习最全优化方法总结比较（SGD，Adagrad，Adadelta，Adam，Adamax，Nadam）https://zhuanlan.zhihu.com/p/22252270
+4. TensorFlow固化模型 https://www.jianshu.com/p/091415b114e2
 #### 迁移学习
 1. 《ULMFiT》 阅读笔记 https://zhuanlan.zhihu.com/p/47344283
 #### 推荐系统
@@ -43,6 +45,8 @@
 3. 推荐系统有哪些坑？https://www.zhihu.com/question/28247353
 #### NER命名实体
 1. 利用Lattice LSTM的最优中文命名实体识别方法https://mp.weixin.qq.com/s/rA6oTLlFWmIvGUq_XPLOKQ
+#### 模型技巧
+1. 美团机器学习实践第四章-模型融合总结 https://www.jianshu.com/p/820f3ce58a60
 #### 竞赛技术
 1. 2018 ATEC NLP比赛 15th 总结https://blog.csdn.net/cuihuijun1hao/article/details/82318792
 2. AI Challenger 2018 冠军 PPT 分享---细粒度情感分析赛道https://mp.weixin.qq.com/s/W0PhbE8149nD3Venmy33tw
