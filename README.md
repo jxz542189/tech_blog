@@ -42,7 +42,7 @@
 #### 推荐系统
 1. 推荐系统各种技术博客 https://www.jianshu.com/u/c5df9e229a67
 2. 小毛驴 http://xudongyang.coding.me/
-3. 推荐系统有哪些坑？https://www.zhihu.com/question/28247353
+3. 推荐系统有哪些坑？ https://www.zhihu.com/question/28247353
 #### NER命名实体
 1. 利用Lattice LSTM的最优中文命名实体识别方法 https://mp.weixin.qq.com/s/rA6oTLlFWmIvGUq_XPLOKQ
 #### 模型技巧
@@ -57,10 +57,10 @@
 7. AI Challenger2018情感分析赛道亚军PPT分享 https://mp.weixin.qq.com/s/SycD5rGNeK5NwYwfmgCKoA
 8. 汽车行业用户观点主题及情感识别 https://github.com/yilirin/BDCI_Car_2018
 #### 技术博客
-1. 徐阿衡 http://www.shuang0420.com/（有一些关于知识抽取，BiDAF，QANet）
-2. 刘建平 https://www.cnblogs.com/pinard/（机器学习，深度学习，自然语言处理，强化学习）
-3. hanxiao https://hanxiao.github.io/（bert-as-service这个项目的说明文档）
-4. Eureka机器学习读书笔记 https://zhuanlan.zhihu.com/xiadayj（机器学习一些理论东西，值得看看）
+1. 徐阿衡 http://www.shuang0420.com/  （有一些关于知识抽取，BiDAF，QANet）
+2. 刘建平 https://www.cnblogs.com/pinard/ （机器学习，深度学习，自然语言处理，强化学习）
+3. hanxiao https://hanxiao.github.io/ （bert-as-service这个项目的说明文档）
+4. Eureka机器学习读书笔记 https://zhuanlan.zhihu.com/xiadayj （机器学习一些理论东西，值得看看）
 5. 张俊林 https://www.zhihu.com/people/zhang-jun-lin-76/activities
 #### tensorflow算法部署
 1. Tensorflow Serving部署流程 https://zhuanlan.zhihu.com/p/42905085
