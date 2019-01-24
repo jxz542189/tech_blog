@@ -28,7 +28,7 @@
 5. 复旦大学肖仰华：领域知识图谱落地实践中的问题与对策 https://mp.weixin.qq.com/s/XTJ0t39SbeIDXtseCUcDBA
 #### CNN
 1. 如何理解空洞卷积（dilated convolution）？ https://www.zhihu.com/question/54149221/answer/192025860 https://www.zhihu.com/question/54149221/answer/323880412
-##急## LSTM
+#### LSTM
 1. 训练可解释、可压缩、高准确率的LSTM https://mp.weixin.qq.com/s/8BPZ_M8EGk3KxkSleYWSNw
 #### 语义匹配
 1. Relevance Matching https://zhuanlan.zhihu.com/p/39946041
