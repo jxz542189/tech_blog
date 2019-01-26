@@ -47,6 +47,7 @@
 1. 利用Lattice LSTM的最优中文命名实体识别方法 https://mp.weixin.qq.com/s/rA6oTLlFWmIvGUq_XPLOKQ
 #### 模型技巧
 1. 美团机器学习实践第四章-模型融合总结 https://www.jianshu.com/p/820f3ce58a60
+2. Ensemble Generation https://blog.csdn.net/u012969412/article/details/76636336
 #### 竞赛技术
 1. 2018 ATEC NLP比赛 15th 总结 https://blog.csdn.net/cuihuijun1hao/article/details/82318792
 2. AI Challenger 2018 冠军 PPT 分享---细粒度情感分析赛道 https://mp.weixin.qq.com/s/W0PhbE8149nD3Venmy33tw
@@ -56,6 +57,10 @@
 6. AI Challenger 2018 文本挖掘类竞赛相关解决方案及代码汇总 http://www.52nlp.cn/ai-challenger-2018-%E6%96%87%E6%9C%AC%E6%8C%96%E6%8E%98%E7%B1%BB%E7%AB%9E%E8%B5%9B%E7%9B%B8%E5%85%B3%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88%E5%8F%8A%E4%BB%A3%E7%A0%81%E6%B1%87%E6%80%BB
 7. AI Challenger2018情感分析赛道亚军PPT分享 https://mp.weixin.qq.com/s/SycD5rGNeK5NwYwfmgCKoA
 8. 汽车行业用户观点主题及情感识别 https://github.com/yilirin/BDCI_Car_2018
+9. 知乎“看山杯” 夺冠记  https://zhuanlan.zhihu.com/p/28923961
+10. “达观杯”文本分类挑战赛Top10经验分享 https://zhuanlan.zhihu.com/p/45391378
+11. “达观杯”挑战赛：单模型带你上前10 https://zhuanlan.zhihu.com/p/52461173
+12. 达观杯文本智能处理挑战赛冠军解决方案 https://zhuanlan.zhihu.com/p/54030260
 #### 技术博客
 1. 徐阿衡 http://www.shuang0420.com/  （有一些关于知识抽取，BiDAF，QANet）
 2. 刘建平 https://www.cnblogs.com/pinard/ （机器学习，深度学习，自然语言处理，强化学习）
