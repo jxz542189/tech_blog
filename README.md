@@ -37,6 +37,8 @@
 2. 深度学习中的优化算法 https://zhuanlan.zhihu.com/p/43506482
 3. 深度学习最全优化方法总结比较（SGD，Adagrad，Adadelta，Adam，Adamax，Nadam）https://zhuanlan.zhihu.com/p/22252270
 4. TensorFlow固化模型 https://www.jianshu.com/p/091415b114e2
+5. Rocket Training: 一种提升轻量网络性能的训练方法 https://zhuanlan.zhihu.com/p/28625922
+6. 世界纪录！4分钟训练完ImageNet！可扩展超大规模GPU收敛算法详解  https://mp.weixin.qq.com/s/TeAUT3XNyMUot3uz1K7nTA
 #### 迁移学习
 1. 《ULMFiT》 阅读笔记 https://zhuanlan.zhihu.com/p/47344283
 #### 推荐系统
@@ -48,8 +50,6 @@
 #### 模型技巧
 1. 美团机器学习实践第四章-模型融合总结 https://www.jianshu.com/p/820f3ce58a60
 2. Ensemble Generation https://blog.csdn.net/u012969412/article/details/76636336 https://github.com/DushyantaDhyani/kdtf
-3. Rocket Training: 一种提升轻量网络性能的训练方法 https://zhuanlan.zhihu.com/p/28625922
-4. 世界纪录！4分钟训练完ImageNet！可扩展超大规模GPU收敛算法详解  https://mp.weixin.qq.com/s/TeAUT3XNyMUot3uz1K7nTA
 #### 竞赛技术
 1. 2018 ATEC NLP比赛 15th 总结 https://blog.csdn.net/cuihuijun1hao/article/details/82318792
 2. AI Challenger 2018 冠军 PPT 分享---细粒度情感分析赛道 https://mp.weixin.qq.com/s/W0PhbE8149nD3Venmy33tw
