@@ -50,6 +50,7 @@
 #### 模型技巧
 1. 美团机器学习实践第四章-模型融合总结 https://www.jianshu.com/p/820f3ce58a60
 2. Ensemble Generation https://blog.csdn.net/u012969412/article/details/76636336 https://github.com/DushyantaDhyani/kdtf
+3. 详解谷歌之多任务学习模型MMoE(KDD 2018) https://zhuanlan.zhihu.com/p/55752344?utm_source=wechat_session&utm_medium=social&utm_oi=766536432285126656&from=timeline
 #### 竞赛技术
 1. 2018 ATEC NLP比赛 15th 总结 https://blog.csdn.net/cuihuijun1hao/article/details/82318792
 2. AI Challenger 2018 冠军 PPT 分享---细粒度情感分析赛道 https://mp.weixin.qq.com/s/W0PhbE8149nD3Venmy33tw
