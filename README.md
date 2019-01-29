@@ -72,8 +72,10 @@
 3. hanxiao https://hanxiao.github.io/ （bert-as-service这个项目的说明文档）
 4. Eureka机器学习读书笔记 https://zhuanlan.zhihu.com/xiadayj （机器学习一些理论东西，值得看看）
 5. 张俊林 https://www.zhihu.com/people/zhang-jun-lin-76/activities
-#### tensorflow算法部署
+#### tensorflow
 1. Tensorflow Serving部署流程 https://zhuanlan.zhihu.com/p/42905085
+2. Tensorflow框架实现中的“三”种图 https://zhuanlan.zhihu.com/p/31308381
+3. tensorflow,存储读取数据结构剖析与合并多个graph https://www.jianshu.com/p/ca637520002f
 #### 统计分析
 1. Lending Club——构建贷款违约预测模型 https://zhuanlan.zhihu.com/p/29994599
 #### 新词发现
