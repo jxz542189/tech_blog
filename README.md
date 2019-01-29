@@ -65,6 +65,7 @@
 11. “达观杯”挑战赛：单模型带你上前10 https://zhuanlan.zhihu.com/p/52461173
 12. 达观杯文本智能处理挑战赛冠军解决方案 https://zhuanlan.zhihu.com/p/54030260
 13. 2017知乎看山杯 从入门到第二 https://zhuanlan.zhihu.com/p/29020616
+14. 2018 CCL-中移在线客服领域用户意图分类 https://github.com/nlpjoe/2018-CCL-UIIMCS
 #### 技术博客
 1. 徐阿衡 http://www.shuang0420.com/  （有一些关于知识抽取，BiDAF，QANet）
 2. 刘建平 https://www.cnblogs.com/pinard/ （机器学习，深度学习，自然语言处理，强化学习）
