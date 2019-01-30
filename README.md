@@ -90,6 +90,7 @@
 1. Tensorboard详解 https://zhuanlan.zhihu.com/p/36946874 https://zhuanlan.zhihu.com/p/37022051
 #### Capsule
 1. 如何看待Hinton的论文《Dynamic Routing Between Capsules》？ https://www.zhihu.com/question/67287444
+2. 如何看待Capsule的第二篇论文Matrix Capsules with EM Routing？ https://www.zhihu.com/question/67427994
 #### docker
 1. docker_cmpose_demo https://github.com/vegasbrianc/docker-compose-demo
 2. docker_practice https://github.com/yeasy/docker_practice
