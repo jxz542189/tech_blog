@@ -66,6 +66,7 @@
 12. 达观杯文本智能处理挑战赛冠军解决方案 https://zhuanlan.zhihu.com/p/54030260
 13. 2017知乎看山杯 从入门到第二 https://zhuanlan.zhihu.com/p/29020616
 14. 2018 CCL-中移在线客服领域用户意图分类 https://github.com/nlpjoe/2018-CCL-UIIMCS
+15. AI Challenger 2018：细粒度用户评论情感分类冠军思路总结 https://zhuanlan.zhihu.com/p/55887135
 #### 技术博客
 1. 徐阿衡 http://www.shuang0420.com/  （有一些关于知识抽取，BiDAF，QANet）
 2. 刘建平 https://www.cnblogs.com/pinard/ （机器学习，深度学习，自然语言处理，强化学习）
@@ -87,6 +88,8 @@
 2. ZeroMQ及其模式 https://zhuanlan.zhihu.com/p/22947038
 #### Tensorboard
 1. Tensorboard详解 https://zhuanlan.zhihu.com/p/36946874 https://zhuanlan.zhihu.com/p/37022051
+#### Capsule
+1. 如何看待Hinton的论文《Dynamic Routing Between Capsules》？ https://www.zhihu.com/question/67287444
 #### docker
 1. docker_cmpose_demo https://github.com/vegasbrianc/docker-compose-demo
 2. docker_practice https://github.com/yeasy/docker_practice
