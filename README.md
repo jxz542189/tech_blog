@@ -77,6 +77,7 @@
 2. Tensorflow框架实现中的“三”种图 https://zhuanlan.zhihu.com/p/31308381
 3. tensorflow,存储读取数据结构剖析与合并多个graph https://www.jianshu.com/p/ca637520002f
 4. TensorFlow saved_model 模块 https://blog.csdn.net/thriving_fcl/article/details/75213361
+5. tensorflow实现将ckpt转pb文件 https://blog.csdn.net/guyuealian/article/details/82218092
 #### 统计分析
 1. Lending Club——构建贷款违约预测模型 https://zhuanlan.zhihu.com/p/29994599
 #### 新词发现
