@@ -76,6 +76,7 @@
 1. Tensorflow Serving部署流程 https://zhuanlan.zhihu.com/p/42905085
 2. Tensorflow框架实现中的“三”种图 https://zhuanlan.zhihu.com/p/31308381
 3. tensorflow,存储读取数据结构剖析与合并多个graph https://www.jianshu.com/p/ca637520002f
+4. TensorFlow saved_model 模块 https://blog.csdn.net/thriving_fcl/article/details/75213361
 #### 统计分析
 1. Lending Club——构建贷款违约预测模型 https://zhuanlan.zhihu.com/p/29994599
 #### 新词发现
