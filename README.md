@@ -10,6 +10,7 @@
 6. BERT大火却不懂Transformer？读这一篇就够了 https://zhuanlan.zhihu.com/p/54356280
 7. Serving Google BERT in Production using Tensorflow and ZeroMQ https://hanxiao.github.io/2019/01/02/Serving-Google-BERT-in-Production-using-Tensorflow-and-ZeroMQ/
 8. Improving Language Understanding with Unsupervised Learning https://blog.openai.com/language-unsupervised/
+9. GLUE排行榜上全面超越BERT的模型近日公布了！ https://zhuanlan.zhihu.com/p/56640922
 #### 广告点击率
 1. 重磅！阿里妈妈首次公开自研CTR预估核心算法MLR https://mp.weixin.qq.com/s/MtnHYmPVoDAid9SNHnlzUw
 2. 镶嵌在互联网技术上的明珠：漫谈深度学习时代点击率预估技术进展 https://zhuanlan.zhihu.com/p/54822778
@@ -67,6 +68,8 @@
 13. 2017知乎看山杯 从入门到第二 https://zhuanlan.zhihu.com/p/29020616
 14. 2018 CCL-中移在线客服领域用户意图分类 https://github.com/nlpjoe/2018-CCL-UIIMCS
 15. AI Challenger 2018：细粒度用户评论情感分类冠军思路总结 https://zhuanlan.zhihu.com/p/55887135
+#### 多任务
+1. Multi-task Learning的三个小知识 https://zhuanlan.zhihu.com/p/56613537   分层设置学习率
 #### 技术博客
 1. 徐阿衡 http://www.shuang0420.com/  （有一些关于知识抽取，BiDAF，QANet）
 2. 刘建平 https://www.cnblogs.com/pinard/ （机器学习，深度学习，自然语言处理，强化学习）
