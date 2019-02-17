@@ -11,6 +11,7 @@
 7. Serving Google BERT in Production using Tensorflow and ZeroMQ https://hanxiao.github.io/2019/01/02/Serving-Google-BERT-in-Production-using-Tensorflow-and-ZeroMQ/
 8. Improving Language Understanding with Unsupervised Learning https://blog.openai.com/language-unsupervised/
 9. GLUE排行榜上全面超越BERT的模型近日公布了！ https://zhuanlan.zhihu.com/p/56640922
+10. 词向量经典模型：从word2vec、glove、ELMo到BERT https://zhuanlan.zhihu.com/p/51682879
 #### 广告点击率
 1. 重磅！阿里妈妈首次公开自研CTR预估核心算法MLR https://mp.weixin.qq.com/s/MtnHYmPVoDAid9SNHnlzUw
 2. 镶嵌在互联网技术上的明珠：漫谈深度学习时代点击率预估技术进展 https://zhuanlan.zhihu.com/p/54822778
@@ -33,6 +34,7 @@
 1. 训练可解释、可压缩、高准确率的LSTM https://mp.weixin.qq.com/s/8BPZ_M8EGk3KxkSleYWSNw
 #### 语义匹配
 1. Relevance Matching https://zhuanlan.zhihu.com/p/39946041
+2. 深度文本匹配发展总结 https://zhuanlan.zhihu.com/p/40741576
 #### 深度学习调优
 1. 关于深度学习的机理，优化和网络结构的一些个人观点 https://zhuanlan.zhihu.com/p/22067439
 2. 深度学习中的优化算法 https://zhuanlan.zhihu.com/p/43506482
