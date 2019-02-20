@@ -35,6 +35,7 @@
 #### 语义匹配
 1. Relevance Matching https://zhuanlan.zhihu.com/p/39946041
 2. 深度文本匹配发展总结 https://zhuanlan.zhihu.com/p/40741576
+3. 综述：深度学习算法在FAQ中的应用(二) https://www.jianshu.com/p/3c20d1886315
 #### 深度学习调优
 1. 关于深度学习的机理，优化和网络结构的一些个人观点 https://zhuanlan.zhihu.com/p/22067439
 2. 深度学习中的优化算法 https://zhuanlan.zhihu.com/p/43506482
