@@ -44,6 +44,7 @@
 5. Rocket Training: 一种提升轻量网络性能的训练方法 https://zhuanlan.zhihu.com/p/28625922
 6. 世界纪录！4分钟训练完ImageNet！可扩展超大规模GPU收敛算法详解  https://mp.weixin.qq.com/s/TeAUT3XNyMUot3uz1K7nTA
 7. 一个框架看懂优化算法之异同 SGD/AdaGrad/Adam https://zhuanlan.zhihu.com/p/32230623
+8. TensorFlow Mobile模型压缩  https://www.jianshu.com/p/d2637646cda1
 #### 迁移学习
 1. 《ULMFiT》 阅读笔记 https://zhuanlan.zhihu.com/p/47344283
 #### 推荐系统
