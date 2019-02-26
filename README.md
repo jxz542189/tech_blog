@@ -47,6 +47,7 @@
 8. TensorFlow Mobile模型压缩  https://www.jianshu.com/p/d2637646cda1
 9. 深度学习最新方法：随机加权平均 https://www.jianshu.com/p/4459562b2b20
 10. 深度学习最新方法：随机加权平均，击败了当前最先进的Snapshot Ensembling https://blog.csdn.net/dqcfkyqdxym3f8rb0/article/details/80240645
+11. 语言建模的王者：AWD-LSTM指南  https://zhuanlan.zhihu.com/p/51619671?utm_source=wechat_session&utm_medium=social&utm_oi=766536432285126656
 #### 迁移学习
 1. 《ULMFiT》 阅读笔记 https://zhuanlan.zhihu.com/p/47344283
 #### 推荐系统
