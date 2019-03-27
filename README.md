@@ -92,6 +92,12 @@
 4. TensorFlow saved_model 模块 https://blog.csdn.net/thriving_fcl/article/details/75213361
 5. tensorflow实现将ckpt转pb文件 https://blog.csdn.net/guyuealian/article/details/82218092
 6. 如何高效地学习 TensorFlow 代码? https://www.zhihu.com/question/41667903/answer/123150582
+7. TensorFlow Serving + Docker + Tornado机器学习模型生产级快速部署 https://zhuanlan.zhihu.com/p/52096200
+8. Horovod-基于TensorFlow分布式深度学习框架 https://zhuanlan.zhihu.com/p/40578792
+9. 【深度学习分布式】Parameter Server 详解 https://zhuanlan.zhihu.com/p/21569493
+10. 基于TensorFlow Serving的深度学习在线预估 https://zhuanlan.zhihu.com/p/46591057
+11. 一文说清楚Tensorflow分布式训练必备知识 https://zhuanlan.zhihu.com/p/56991108
+12. 增大Batch训练神经网络：单GPU、多GPU及分布式配置的实用技巧 https://zhuanlan.zhihu.com/p/48035735
 #### 统计分析
 1. Lending Club——构建贷款违约预测模型 https://zhuanlan.zhihu.com/p/29994599
 #### 新词发现
