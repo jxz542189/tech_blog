@@ -98,6 +98,8 @@
 10. 基于TensorFlow Serving的深度学习在线预估 https://zhuanlan.zhihu.com/p/46591057
 11. 一文说清楚Tensorflow分布式训练必备知识 https://zhuanlan.zhihu.com/p/56991108
 12. 增大Batch训练神经网络：单GPU、多GPU及分布式配置的实用技巧 https://zhuanlan.zhihu.com/p/48035735
+13. tensorflow分布式 https://github.com/tensorflow/examples/blob/master/community/en/docs/deploy/distributed.md
+14. tensorflow分布式 https://github.com/logicalclocks/hops-examples/tree/master/tensorflow/notebooks/Distributed_Training
 #### 统计分析
 1. Lending Club——构建贷款违约预测模型 https://zhuanlan.zhihu.com/p/29994599
 #### 新词发现
