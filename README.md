@@ -49,6 +49,9 @@
 10. 深度学习最新方法：随机加权平均，击败了当前最先进的Snapshot Ensembling https://blog.csdn.net/dqcfkyqdxym3f8rb0/article/details/80240645
 11. 语言建模的王者：AWD-LSTM指南  https://zhuanlan.zhihu.com/p/51619671?utm_source=wechat_session&utm_medium=social&utm_oi=766536432285126656
 12. TensorFlow 保存模型为 PB 文件 https://zhuanlan.zhihu.com/p/32887066
+#### 机器学习
+1. XGBoost的原理 http://djjowfy.com/2017/08/01/XGBoost的原理/
+2. 机器学习算法中 GBDT 和 XGBOOST 的区别有哪些？  https://www.zhihu.com/question/41354392/answer/98658997
 #### 迁移学习
 1. 《ULMFiT》 阅读笔记 https://zhuanlan.zhihu.com/p/47344283
 #### 推荐系统
