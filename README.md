@@ -105,6 +105,7 @@
 14. tensorflow分布式 https://github.com/logicalclocks/hops-examples/tree/master/tensorflow/notebooks/Distributed_Training
 15. TensorFlow 同时调用多个预训练好的模型 https://www.jianshu.com/p/5a3e4b20bc7f
 16. 如何合并两个TensorFlow模型 https://blog.csdn.net/mogoweb/article/details/83064819
+17. TensorFlow saved_model 模块 https://blog.csdn.net/thriving_fcl/article/details/75213361
 #### 统计分析
 1. Lending Club——构建贷款违约预测模型 https://zhuanlan.zhihu.com/p/29994599
 #### 新词发现
