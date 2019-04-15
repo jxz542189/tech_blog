@@ -103,6 +103,8 @@
 12. 增大Batch训练神经网络：单GPU、多GPU及分布式配置的实用技巧 https://zhuanlan.zhihu.com/p/48035735
 13. tensorflow分布式 https://github.com/tensorflow/examples/blob/master/community/en/docs/deploy/distributed.md
 14. tensorflow分布式 https://github.com/logicalclocks/hops-examples/tree/master/tensorflow/notebooks/Distributed_Training
+15. TensorFlow 同时调用多个预训练好的模型 https://www.jianshu.com/p/5a3e4b20bc7f
+16. 如何合并两个TensorFlow模型 https://blog.csdn.net/mogoweb/article/details/83064819
 #### 统计分析
 1. Lending Club——构建贷款违约预测模型 https://zhuanlan.zhihu.com/p/29994599
 #### 新词发现
