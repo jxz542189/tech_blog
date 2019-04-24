@@ -50,6 +50,10 @@
 12. TensorFlow 保存模型为 PB 文件 https://zhuanlan.zhihu.com/p/32887066
 #### 深度学习模型
 1. SQUAD的rnet复现踩坑记 https://www.cnblogs.com/rocketfan/p/9103878.html
+2. 论文分享 - R-Net: Machine Reading Comprehension with Self-Matching https://blog.csdn.net/jdbc/article/details/80607129
+3. A Decomposable Attention Model for Natural Language Inference阅读笔记 https://blog.csdn.net/leo_95/article/details/89111885
+4. 论文阅读：Enhanced LSTM for Natural Language Inference(ESIM) https://www.jianshu.com/p/f2ff76239992
+5. Natural Language Inference Over Interaction Space(DIIN)阅读笔记 https://blog.csdn.net/leo_95/article/details/89260542
 #### 机器学习
 1. XGBoost的原理 http://djjowfy.com/2017/08/01/XGBoost的原理/
 2. 机器学习算法中 GBDT 和 XGBOOST 的区别有哪些？  https://www.zhihu.com/question/41354392/answer/98658997
