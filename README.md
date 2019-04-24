@@ -31,6 +31,7 @@
 1. 如何理解空洞卷积（dilated convolution）？ https://www.zhihu.com/question/54149221/answer/192025860 https://www.zhihu.com/question/54149221/answer/323880412
 #### LSTM
 1. 训练可解释、可压缩、高准确率的LSTM https://mp.weixin.qq.com/s/8BPZ_M8EGk3KxkSleYWSNw
+2. 深入理解lstm及其变种gru  https://zhuanlan.zhihu.com/p/34203833
 #### 语义匹配
 1. Relevance Matching https://zhuanlan.zhihu.com/p/39946041
 2. 深度文本匹配发展总结 https://zhuanlan.zhihu.com/p/40741576
