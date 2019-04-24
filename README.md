@@ -129,6 +129,8 @@
 #### docker
 1. docker_cmpose_demo https://github.com/vegasbrianc/docker-compose-demo
 2. docker_practice https://github.com/yeasy/docker_practice
+#### 面试资料
+1. Algorithm_Interview_Notes-Chinese https://github.com/imhuay/Algorithm_Interview_Notes-Chinese
 #### 常用工具
 1. 这 10 款插件让你的 GitHub 更好用、更有趣  https://zhuanlan.zhihu.com/p/55722104?utm_source=wechat_timeline&utm_medium=social&utm_oi=766536432285126656&from=timeline
 
