@@ -124,6 +124,10 @@
 2. ZeroMQ及其模式 https://zhuanlan.zhihu.com/p/22947038
 #### Tensorboard
 1. Tensorboard详解 https://zhuanlan.zhihu.com/p/36946874 https://zhuanlan.zhihu.com/p/37022051
+#### python代码优化
+1. Python · numba 的基本应用 https://zhuanlan.zhihu.com/p/27152060
+2. 百倍加速！Python量化策略的算法性能提升指南 https://zhuanlan.zhihu.com/p/24168485
+3. 加速python运行-numba https://www.jianshu.com/p/69d9d7e37bc5
 #### Capsule
 1. 如何看待Hinton的论文《Dynamic Routing Between Capsules》？ https://www.zhihu.com/question/67287444
 2. 如何看待Capsule的第二篇论文Matrix Capsules with EM Routing？ https://www.zhihu.com/question/67427994
