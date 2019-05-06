@@ -27,6 +27,7 @@
 3. 知识图谱数据构建的“硬骨头”，阿里工程师如何拿下 https://zhuanlan.zhihu.com/p/43899340
 4. 自底向上——知识图谱构建技术初探 https://m.aliyun.com/yunqi/articles/603347?utm_content=m_1000004547&from=timeline
 5. 复旦大学肖仰华：领域知识图谱落地实践中的问题与对策 https://mp.weixin.qq.com/s/XTJ0t39SbeIDXtseCUcDBA
+6. 知识图谱之社交网络分析（SNA）之python处理 https://blog.csdn.net/hhtnan/article/details/81744491#comments https://github.com/blmoistawinde/hello_world
 #### CNN
 1. 如何理解空洞卷积（dilated convolution）？ https://www.zhihu.com/question/54149221/answer/192025860 https://www.zhihu.com/question/54149221/answer/323880412
 #### LSTM
