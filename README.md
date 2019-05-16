@@ -30,6 +30,7 @@
 6. 知识图谱之社交网络分析（SNA）之python处理 https://blog.csdn.net/hhtnan/article/details/81744491#comments https://github.com/blmoistawinde/hello_world
 7. Cypher完整案例csv导入、关系联通、高级查询（三） https://blog.csdn.net/sinat_26917383/article/details/79852596
 8. neo4j批量导入neo4j-import https://blog.csdn.net/sinat_26917383/article/details/82424508
+9. 自然语言处理界的小螺丝钉 https://blog.csdn.net/lhy2014/article/details/82954509
 #### CNN
 1. 如何理解空洞卷积（dilated convolution）？ https://www.zhihu.com/question/54149221/answer/192025860 https://www.zhihu.com/question/54149221/answer/323880412
 #### LSTM
