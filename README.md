@@ -32,6 +32,7 @@
 8. neo4j批量导入neo4j-import https://blog.csdn.net/sinat_26917383/article/details/82424508
 9. 自然语言处理界的小螺丝钉 https://blog.csdn.net/lhy2014/article/details/82954509
 10. 深度长文 | 复旦大学肖仰华：领域知识图谱落地实践中的问题与对策 https://mp.weixin.qq.com/s/XTJ0t39SbeIDXtseCUcDBA
+11. 详细的知识图谱构建流程 https://zhuanlan.zhihu.com/p/44123660
 #### CNN
 1. 如何理解空洞卷积（dilated convolution）？ https://www.zhihu.com/question/54149221/answer/192025860 https://www.zhihu.com/question/54149221/answer/323880412
 #### LSTM
